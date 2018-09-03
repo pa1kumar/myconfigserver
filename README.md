@@ -1,0 +1,2 @@
+# myconfigserver
+example config server
